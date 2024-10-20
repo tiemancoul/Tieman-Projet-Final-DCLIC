@@ -1,4 +1,4 @@
 Bonsoir,
 
 Je suis un apprenant participant à la formation en développement web lancée par D-CLIC OIF. J'ai réalisé mon portfolio en utilisant HTML, CSS et JavaScript, des compétences acquises au cours de cette formation en ligne. Bien que le projet ne soit pas encore terminé, je serais ravi de recevoir vos remarques et suggestions pour l'améliorer.
-Lien: https://github.com/tiemancoul/le-Portfolio-de-Tieman-COULIBALY-DCLIC
+Lien: https://tiemancoul.github.io/Tieman-Projet-Final-DCLIC/
